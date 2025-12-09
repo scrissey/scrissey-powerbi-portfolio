@@ -1,4 +1,4 @@
-# Advanced Business Intelligence Portfolio - Sam Crissey
+# Advanced Business Intelligence Portfolio
 ### Microsoft Power BI | Multimodal Analytics
 
 ---
