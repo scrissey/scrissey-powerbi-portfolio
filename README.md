@@ -1,19 +1,19 @@
 # Advanced Business Intelligence Portfolio - Sam Crissey
-### Developed in Microsoft Power BI | Multimodal Analytics
+### Microsoft Power BI | Multimodal Analytics
 
 ## 👋 Welcome
-This portfolio demonstrates advanced data modeling, predictive analytics, geospatial intelligence, risk scoring, and operational performance architectures.
+This portfolio showcases analytical systems designed to solve real operational problems, reflecting business-level thinking, not just chart building — connecting decisions, operations, and risk.
 
 Each report goes far beyond “typical dashboards” — these simulate real-world systems used by:
 - Analysts & Enterprise BI Teams  
 - Healthcare Workforce Directors  
-- Maritime & Geographic Risk Authorities  
+- Environmental and Safety Risk Analysts 
 - Automation & Efficiency Engineers  
 - Logistics & Supply Chain Strategists  
 
 ---
 
-## 🎯 What This Portfolio Demonstrates
+## ❓ What This Portfolio Demonstrates
 - Predictive analytics & forecasting
 - Risk quantification & exposure modeling
 - Geospatial analysis (lat/long mapping)
@@ -24,14 +24,10 @@ Each report goes far beyond “typical dashboards” — these simulate real-wor
 
 ---
 
-# 📚 Analytics Portfolio 
-
----
-
 ## 1) 🌊 Triton Coastal Risk Observatory  
 ### **Global Ocean Storms & Economic Risk Intelligence System**
 
-Provides real-time tracking of storms, geospatial hazard mapping, port vulnerability, economic exposure, and disruption forecasting.
+Identify and quantify coastal storm risk, economic exposure, and port vulnerability.
 
 ![Triton Screenshot](storm.png)
 
@@ -42,7 +38,7 @@ Provides real-time tracking of storms, geospatial hazard mapping, port vulnerabi
 ## 2) 🚚 NorthStar Supply & Logistics  
 ### **Global Supply Chain Performance Overview**
 
-Tracks inventory flow, lead times, profit, OTIF performance, customer exposure, forecasting, and drill-through diagnostics.
+Provide visibility into supply reliability, lead times, OTIF, and profitability.
 
 ![NorthStar Screenshot](supply.png)
 
@@ -53,7 +49,7 @@ Tracks inventory flow, lead times, profit, OTIF performance, customer exposure, 
 ## 3) 🤖 Helix Systems Global  
 ### **Automation ROI & Manual Work Reduction Dashboard**
 
-Measures operational efficiency gained from automation. Includes bot reliability, drift detection, payback period, and ROI forecasting.
+Quantify automation impact, reduce manual work, and guide prioritization.
 
 ![Helix Screenshot](automation.png)
 
@@ -64,7 +60,7 @@ Measures operational efficiency gained from automation. Includes bot reliability
 ## 4) 🏥 Aurelia Medical Network  
 ### **Hospital Workforce Intelligence System**
 
-Forecasts overtime pressure, burnout, RN/patient ratios, shortage risk, certification compliance, and seasonal staffing analysis.
+Support staffing decisions, burnout mitigation, and patient safety readiness.
 
 ![Aurelia Screenshot](hospital.png)
 
@@ -73,9 +69,9 @@ Forecasts overtime pressure, burnout, RN/patient ratios, shortage risk, certific
 ---
 
 ## 5) 🐺 Alpine Sentinel Institute  
-### **Wolf & Bear Migration: Seasonal Wildlife Risk Intelligence**
+### **Wolf & Bear Migration: Wildlife Risk Intelligence**
 
-Tracks territory movement, risk of human proximity, population dynamics, climate interaction, and conservation risk.
+Track animal movement, identify seasonal patterns, and highlight interaction risk.
 
 ![Alpine Screenshot](wildlife.png)
 
@@ -83,14 +79,14 @@ Tracks territory movement, risk of human proximity, population dynamics, climate
 
 ---
 
-# 🛠️ Technical Capabilities
-- Complex DAX calculations
-- Predictive forecasting models
-- High-quality relational schema design
-- Multi-table reporting & drill-throughs
-- Geo-mapping with risk scoring layers
-- Dimensional analytics & scenario simulation
-- Industry-specific BI architecture
+# 📈 These solutions include:
+
+- Power BI data modeling with star schemas  
+- DAX modeling for metrics, scoring, and forecasting  
+- Automated calculations and comparisons  
+- Multi-page dashboard architecture  
+- Internal consistency checks and validation  
+- Clean, standardized analytic structure  
 
 ---
 
@@ -113,7 +109,7 @@ I can help by building dashboards that:
 
 ---
 
-# Project Types
+# 🔍 Project Types
 - Power BI dashboards built from scratch  
 - Improving and cleaning existing reports  
 - Connecting data from Excel, SharePoint, SAP, SQL  
