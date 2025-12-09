@@ -71,6 +71,7 @@ Forecasts overtime pressure, burnout, RN/patient ratios, shortage risk, certific
 ![Aurelia Screenshot](hospital.png)
 
 🔗 **Live Version:** https://app.fabric.microsoft.com/view?r=eyJrIjoiN2U0NDk4MTYtM2JkNC00ZDUzLTg1MDMtNTJmNTg0ZWZjNWZhIiwidCI6IjI0MzY1MTJlLWExMDctNGRjMi1hYWJlLTgxMzA4YjgzN2M3MCJ9
+
 ---
 
 ## 5) 🐺 Alpine Sentinel Institute  
@@ -81,6 +82,7 @@ Tracks territory movement, risk of human proximity, population dynamics, climate
 ![Alpine Screenshot](wildlife.png)
 
 🔗 **Live Version:** https://app.fabric.microsoft.com/view?r=eyJrIjoiNDQxM2E1YzUtNzRjZC00MmYxLTgzYjgtMGE0ODdmZjY0MGRkIiwidCI6IjI0MzY1MTJlLWExMDctNGRjMi1hYWJlLTgxMzA4YjgzN2M3MCJ9
+
 ---
 
 # 🛠️ Technical Capabilities
@@ -94,8 +96,8 @@ Tracks territory movement, risk of human proximity, population dynamics, climate
 
 ---
 
-# 🧭 Consulting & Collaboration
-I am open to:
+# 🤝 Consulting & Collaboration
+If your organization is looking for help with:
 - BI contracting work
 - Analytics consulting
 - Automation modeling
