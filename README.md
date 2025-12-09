@@ -122,5 +122,6 @@ I can help by building dashboards that:
 
 ## 📬 Contact
 If you want to discuss a project or dashboard idea, feel free to reach out through email, GitHub or LinkedIn.
-**Email:** sr.crisse@gmail.com  
-**LinkedIn:** www.linkedin.com/in/sam-crissey-064777241  
+
+-**Email:** sr.crisse@gmail.com  
+-**LinkedIn:** www.linkedin.com/in/sam-crissey-064777241  
