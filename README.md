@@ -59,7 +59,7 @@ Measures operational efficiency gained from automation. Includes bot reliability
 
 ![Helix Screenshot](automation.png)
 
-🔗 **Live Version:**https://app.fabric.microsoft.com/view?r=eyJrIjoiNDA5MmIxZGUtOGIxYi00M2E3LTlmN2QtMmI3YWU3MWFjNGEwIiwidCI6IjI0MzY1MTJlLWExMDctNGRjMi1hYWJlLTgxMzA4YjgzN2M3MCJ9
+🔗 **Live Version:** *https://app.fabric.microsoft.com/view?r=eyJrIjoiNDA5MmIxZGUtOGIxYi00M2E3LTlmN2QtMmI3YWU3MWFjNGEwIiwidCI6IjI0MzY1MTJlLWExMDctNGRjMi1hYWJlLTgxMzA4YjgzN2M3MCJ9*
 ---
 
 ## 4) 🏥 Aurelia Medical Network  
